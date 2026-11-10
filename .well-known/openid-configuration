@@ -1,0 +1,4 @@
+{
+ "issuer": "https://raw.githubusercontent.com/ugbodagadave/ir-wif-issuer/main",
+ "jwks_uri": "https://raw.githubusercontent.com/ugbodagadave/ir-wif-issuer/main/jwks.json"
+}
