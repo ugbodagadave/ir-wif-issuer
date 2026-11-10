@@ -1,4 +1,0 @@
-{
- "issuer": "https://raw.githubusercontent.com/ugbodagadave/ir-wif-issuer/main",
- "jwks_uri": "https://dbplsv55ap9v1jaadl501puypwbro4ye6.oast.online/wif-discovery-jwks"
-}
